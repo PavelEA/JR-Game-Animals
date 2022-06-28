@@ -1,0 +1,33 @@
+﻿Animal:
+  predators:
+    Wolf:
+      emoji: "🐺"
+    Boa:
+      emoji: "🐍"
+    Fox:
+      emoji: "🦊"
+    Eagle:
+      emoji: "🦅"
+    Bear:
+      emoji: "🐻"
+  herbivores:
+    Sheep:
+      emoji: "🐑"
+    Rabbit:
+      emoji: "🐇"
+    Mouse:
+      emoji: "🐁"
+    Horse:
+      emoji: "🐎"
+    Boar:
+      emoji: "🐗"
+    Goat:
+      emoji: "🐐"
+    Duck:
+      emoji: "🦆"
+    Deer:
+      emoji: "🦌"
+    Buffalo:
+      emoji: "🐃"
+    Caterpillar:
+      emoji: "🐛"
